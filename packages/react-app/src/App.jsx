@@ -219,7 +219,7 @@ function App(props) {
   // 🏗 scaffold-eth is full of handy hooks like this one to get your balance:
   const yourLocalBalance = useBalance(localProvider, address);
 
-  // Just plug in different 🛰 providers to get your balance on different chains:
+  // Just plug in different 🛰 providers to get your balance on different chains       hjhjhjhj:
   const yourMainnetBalance = useBalance(mainnetProvider, address);
 
   const contractConfig = useContractConfig();
